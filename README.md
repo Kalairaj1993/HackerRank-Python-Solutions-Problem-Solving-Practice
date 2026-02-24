@@ -1,4 +1,4 @@
-# 🚀 HackerRank Solutions
+# 🚀 HackerRank Python Solutions | Problem Solving Practice
 
 Welcome to my HackerRank practice repository!
 
