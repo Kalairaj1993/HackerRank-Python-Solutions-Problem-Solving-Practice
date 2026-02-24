@@ -16,24 +16,29 @@ This repository showcases my hands-on coding practice and logical thinking skill
 
 ## 📌 Topics Covered
 
-- ✅ Python Basics  
-- ✅ Problem Solving  
-- ✅ Data Structures  
-- ✅ Algorithms  
-- ✅ String Manipulation  
-- ✅ Loops & Conditional Statements  
-- ✅ Functions  
-- ✅ OOP Concepts  
+-  Python Basics  
+-  Problem Solving  
+-  Data Structures  
+-  Algorithms  
+-  String Manipulation  
+-  Loops & Conditional Statements  
+-  Functions  
+-  OOP Concepts  
 
 ---
 
 ## 📂 Repository Structure
+
 HackerRank-Solutions
 │
 ├── Python_Basics
+
 ├── Data_Structures
+
 ├── Algorithms
+
 ├── Problem_Solving
+
 └── OOP
 
 
