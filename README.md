@@ -1,5 +1,3 @@
-🔗 HackerRank Profile: (https://www.hackerrank.com/rajfreelancer191)
-
 # 🚀 HackerRank Solutions
 
 Welcome to my HackerRank practice repository!
